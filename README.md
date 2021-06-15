@@ -7,9 +7,9 @@ Various CRUD applications have been implemented in this web application like Add
 # Tech Stack
 Hibernate and Java.
 
-![alt text](emp_img1.jpg)
-![alt text](emp_img2.jpg)
-![alt text](emp_img3.jpg)
-![alt text](emp_img4.jpg)
+![alt text](emp_img1.JPG)
+![alt text](emp_img2.JPG)
+![alt text](emp_img3.JPG)
+![alt text](emp_img4.JPG)
 
 ### Star this repository if you like it!
